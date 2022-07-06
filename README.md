@@ -20,6 +20,6 @@ I am an undergraduate student from Computer Science and Engineering (CSE) at GIT
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hariperisetla&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hariperisetla&icon=random&color=0&pretty=true)](https://visitcount.itsvg.in)
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
