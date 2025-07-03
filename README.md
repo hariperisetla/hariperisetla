@@ -3,7 +3,15 @@
 </div>
 
 ## 💫 About Me:
-I'm Hari Perisetla, also known as Hari Naga Sai Perisetla. I specialize in frontend design and development as an Information Technology Analyst at NTT Data. Proficient in React JS, Next JS, Tailwind, Bootstrap, and JavaScript, I excel in optimizing website performance and crafting user-friendly interfaces. With a passion for problem-solving and strong teamwork skills, I'm eager to contribute to your company's web development efforts. Let's connect to discuss how I can elevate your team's projects! Know More
+Hey I'm Hari Perisetla, currently working as an Info Technology Analyst at NTT Data.
+
+With my deep understanding of cutting edge technologies and expertise in design, I bring websites to life with thoughtful coding.
+
+I'm passionate about solving complex problems and creating intuitive, user-friendly interfaces from scratch.
+
+I love capturing intricate details with my camera in my free time.
+
+Frontend development, design tools and building SaaS apps are my major strengths
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hariperisetla) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13608543) [![Twitter](https://img.shields.io/badge/-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/hariperisetla) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCdu0p14GFaXA-RAsApiBQ5g) 
